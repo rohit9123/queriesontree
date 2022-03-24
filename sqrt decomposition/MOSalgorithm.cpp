@@ -29,7 +29,7 @@ of L,and ties are order by ascending order of r
 #include <string>
 
 using namespace std;
-#define INT_MAX 2147483647
+// #define INT_MAX 2147483647
 
 int blk=555;
 struct query{

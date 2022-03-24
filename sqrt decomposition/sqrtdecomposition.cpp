@@ -3,23 +3,7 @@
 //12 -> 3 ->[0,2],[3,5],[6,8][9,11]
 //first calculate the block size floor(sqrt(N))
 
-#include<iostream>
-#include<vector>
-#include<set>
-#include<algorithm>
-#include<stack>
-#include<queue>
-#include<string>
-#include<map>
-#include<cmath>
-#include<string.h>
-#include<math.h>
-#include<unordered_map>
-#include<iomanip>
-#include<unordered_set>
-#include <string>
-
-using namespace std;
+ 
 #define INT_MAX 2147483647
 int main(){
     int n;
