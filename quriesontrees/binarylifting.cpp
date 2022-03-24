@@ -77,5 +77,7 @@ int main(){
         }
             cout<<parent[a][0]<<endl;
         }
+        //distance between 2 nodes
+        depth[a]+depth[b]-2*depth[parent[a][0]];
         
 }
